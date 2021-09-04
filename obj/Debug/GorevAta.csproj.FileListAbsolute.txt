@@ -1,0 +1,9 @@
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.Properties.Resources.resources
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.csproj.GenerateResource.cache
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.csproj.CoreCompileInputs.cache
+C:\Users\SyntaxBroker\source\repos\GorevAta\bin\Debug\GorevAta.exe.config
+C:\Users\SyntaxBroker\source\repos\GorevAta\bin\Debug\GorevAta.exe
+C:\Users\SyntaxBroker\source\repos\GorevAta\bin\Debug\GorevAta.pdb
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.exe
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.pdb
+C:\Users\SyntaxBroker\source\repos\GorevAta\obj\Debug\GorevAta.KisayolProgramAtama.resources
